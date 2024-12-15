@@ -20,7 +20,7 @@ Here is the link for the video:
 To set up and run the project locally, follow these steps:
 
 # Clone the repository
-git clone https://github.com/yourusername/CSCI_1460_final.git
+git clone https://github.com/YanmiYu/CSCI_1460_final.git 
 
 # Navigate to the project directory
 cd CSCI_1460_final
