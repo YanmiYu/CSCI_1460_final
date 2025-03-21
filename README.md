@@ -1,4 +1,4 @@
-# CSCI_1460_final
+# Computational Linguistic: replicate "A BERT Baseline for the Natural Questions"
 This repository contains the implementation of a Question Answering (QA) system using the DistilBERT model from the Hugging Face transformers library. This system is designed to comprehend text context and provide answers to related questions, mirroring the capabilities demonstrated in the paper, "A BERT Baseline for the Natural Questions." The goal is to replicate the short answer and no answer results discussed in the paper, enhancing our understanding of BERT's application in real-world NLP tasks.
 
 Paper Link: [read paper here](https://drive.google.com/file/d/1TQ3tpsdHQ76pC0g8-aPmhJslo5QSJSTp/view)
