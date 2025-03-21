@@ -23,7 +23,4 @@ To set up and run the project locally, follow these steps:
 git clone https://github.com/YanmiYu/CSCI_1460_final.git 
 
 ### Navigate to the project directory
-cd CSCI_1460_final
-
-### Install required dependencies
-pip install -r requirements.txt
+cd Computational Linguistic
